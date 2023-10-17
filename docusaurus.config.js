@@ -8,8 +8,8 @@ async function createConfig() {
     title: "Learn Prompting: Your Guide to Communicating with AI",
     tagline:
       "A Free, Open Source Course on Communicating with Artificial Intelligence",
-    url: "https://emerleite.github.io",
-    baseUrl: "/Learn_Prompting/",
+    url: "https://learnprompting.emerleite.com",
+    baseUrl: "/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",
@@ -18,21 +18,10 @@ async function createConfig() {
     deploymentBranch: "gh-pages",
     trailingSlash: false,
     i18n: {
-      defaultLocale: "en",
+      defaultLocale: "pt",
       locales: [
         "en",
-        "es",
-        "fr",
-        "ja",
-        "pt",
-        "zh-Hans",
-        "ko",
-        "si",
-        "ru",
-        "ar",
-        "de",
-        "uk",
-        "id"
+        "pt"
       ],
     },
     scripts: [
