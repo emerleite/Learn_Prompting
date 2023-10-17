@@ -18,7 +18,7 @@ async function createConfig() {
     deploymentBranch: "gh-pages",
     trailingSlash: false,
     i18n: {
-      defaultLocale: "pt",
+      defaultLocale: "en",
       locales: [
         "en",
         "es",
