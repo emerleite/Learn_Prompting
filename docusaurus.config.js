@@ -8,8 +8,8 @@ async function createConfig() {
     title: "Learn Prompting: Your Guide to Communicating with AI",
     tagline:
       "A Free, Open Source Course on Communicating with Artificial Intelligence",
-    url: "https://emerleite.github.io/Learn_Prompting",
-    baseUrl: "/",
+    url: "https://emerleite.github.io",
+    baseUrl: "/Learn_Prompting/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",
